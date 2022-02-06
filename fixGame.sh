@@ -72,6 +72,3 @@ cd ..
 echo -e "\nPut this line inside of your steam launch options:\n"
 echo -e "WINEDLLOVERRIDES=\"d3d9,msacm32,msvfw32=n,b\" %command% -nointro\n"
 echo -e "If you have already created a profile in the game, create a new one\n and use that instead."
-
-
-# Progs needed: hexdump sed xxd wget 
